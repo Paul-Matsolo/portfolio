@@ -1,9 +1,7 @@
 import React from "react";
 import '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faReact, faDocker, faPython } from '@fortawesome/free-brands-svg-icons';
 import { faChartBar, faGears, faBrain } from '@fortawesome/free-solid-svg-icons';
-import { SiPostgresql } from 'react-icons/si';
 import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
@@ -19,28 +17,6 @@ const labelsFirst = [
     "SQL",
     "PostgreSQL",
     "Postman"
-];
-
-const labelsSecond = [
-    "Git",
-    "GitHub Actions",
-    "Docker",
-    "AWS",
-    "Azure",
-    "Linux",
-    "Snowflake",
-    "Pandas",
-    "Selenium",
-];
-
-const labelsThird = [
-    "OpenAI",
-    "Groq",
-    "LangChain",
-    "Qdrant",
-    "Hugging Face",
-    "LlamaIndex",
-    "Streamlit",
 ];
 
 function Expertise() {
