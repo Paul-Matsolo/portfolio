@@ -5,20 +5,6 @@ import { faChartBar, faGears, faBrain } from '@fortawesome/free-solid-svg-icons'
 import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
-const labelsFirst = [
-    "React",
-    "TypeScript",
-    "JavaScript",
-    "HTML5",
-    "CSS3",
-    "SASS",
-    "Flask",
-    "Python",
-    "SQL",
-    "PostgreSQL",
-    "Postman"
-];
-
 function Expertise() {
     return (
     <div className="container" id="expertise">
