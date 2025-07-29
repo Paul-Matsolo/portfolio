@@ -24,7 +24,7 @@ function Project() {
 
 export default Project;
 
-function Project() {
+function myprojects() {
     return(
     <div className="projects-container" id="projects">
         <h1>Job Simulations</h1>
@@ -45,4 +45,4 @@ function Project() {
     );
 }
 
-export default Project;
+export default myprojects;
