@@ -22,6 +22,7 @@ function Project() {
                 <p>Developed movie finder app with semantic search and sentiment analysis using OpenAI GPT-3.5 Turbo, Qdrant, React, and Flask.</p>
             </div>
     </div>
+        </div>
     );
 }
 
