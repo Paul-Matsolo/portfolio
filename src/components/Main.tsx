@@ -11,7 +11,7 @@ function Main() {
     <div className="container">
       <div className="about-section">
         <div className="image-wrapper">
-  <img src={resizedImg} alt="Avatar" style={{ width: '150px', height: '150px' }} />
+  <img src={resizedImg} alt="Avatar" style={{ width: '155px', height: '150px' }} />
 </div>
         <div className="content">
           <div className="social_icons">
